@@ -1,1 +1,1 @@
-https://vedsatyam.github.io/camera-app/
+Check the websiste at https://vedsatyam.github.io/camera-app/
