@@ -1,3 +1,12 @@
+.vedimg{
+    width: 40px;
+    height: 40px;
+    background-image: url('https://1.bp.blogspot.com/-iOJ4OHYQwt4/XVBgTsWrmcI/AAAAAAAAVDI/QZD6vFoGHNsPzNU6P_23wHjWJJxWuqSZgCLcBGAs/s1600/VedMaster.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    border: 1px solid red;
+  }
+  
 html, body{
     margin: 0;
     padding: 0;
@@ -37,12 +46,4 @@ html, body{
       top: 20px;
       right: 20px;
       z-index: 2;
-  }
-  .vedimg{
-    width: 40px;
-    height: 40px;
-    background-image: url('https://1.bp.blogspot.com/-iOJ4OHYQwt4/XVBgTsWrmcI/AAAAAAAAVDI/QZD6vFoGHNsPzNU6P_23wHjWJJxWuqSZgCLcBGAs/s1600/VedMaster.png');
-    background-repeat: no-repeat;
-    background-size: contain;
-    border: 1px solid red;
   }
